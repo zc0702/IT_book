@@ -106,6 +106,7 @@
 
 
 # python系列
+- python操作word,excel,pdf     [百度云下载链接](https://pan.baidu.com/s/10KTz_CPln20SK1z3h9nxng)  密码:7w6s
 ### python基础
 - Python编程：从入门到实践     [百度云下载链接](https://pan.baidu.com/s/1yqPuGr5_Cbb7ByPpa6IneQ)  密码:dv8z
 - Python数据分析基础教程：NumPy学习指南     [百度云下载链接](https://pan.baidu.com/s/15XzJ9uHBVMO9oKEvYXZ9CQ)  密码:78u3

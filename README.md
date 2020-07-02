@@ -343,8 +343,7 @@
 - 码农翻身      [百度云下载链接](https://pan.baidu.com/s/1blFwoNWdMmTfPyyvb_3s6w )  密码:5c26
 - 浪潮之巅      [百度云下载链接](https://pan.baidu.com/s/11I2DZtrgJaY1OvRJZg6FqQ )  密码:6416
 - 程序员面试宝典      [百度云下载链接](https://pan.baidu.com/s/1e9I4on3zsfNLE9WFqEZxhQ)  密码:ukzv
-- 奔跑吧，程序员：从零开始打造产品、技术和团队      [百度云下载链接](https://pan.baidu.com/s/1z5qWf3KR8wX5jur9YCoqj)  密码:8zt3
-
+- 奔跑吧，程序员：从零开始打造产品、技术和团队      [百度云下载链接](https://pan.baidu.com/s/1yZKsc1NoQgHrlI1eeOZFkw )  密码:43ul
 
 
 # 声明

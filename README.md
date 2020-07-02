@@ -88,9 +88,10 @@
 
 ### 计算机组成原理
 - 计算机是怎样跑起来的     [百度云下载链接](https://pan.baidu.com/s/1bbOJ1mOEldsgdGWs84xXYQ)  密码:z8vz
-- 隐匿在计算机软硬件背后的语言     [百度云下载链接](https://pan.baidu.com/s/1kUDEvSNaXLi1pdyzKlweKQ)  密码:l7iq
+- 隐匿在计算机软硬件背后的语言     [百度云下载链接](https://pan.baidu.com/s/1J5LP6gpOIat6jRH0Uw0lPA)  密码:9284
 - 大话计算机     [百度云下载链接](https://pan.baidu.com/s/1Lx4jN0cT5y6oEhcP-vPM5Q)  密码:6iuh
 - 隐匿在计算机软硬件背后的语言**英文版**     [百度云下载链接](https://pan.baidu.com/s/1NF3T1khX2YT1SLULDNo_YA)  密码:jrvw
+
 
 ### 汇编语言
 

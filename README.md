@@ -64,8 +64,8 @@
 
 
 # 数据结构与算法相关书籍
-- 漫画算法：小灰的算法之旅     [百度云下载链接](https://pan.baidu.com/s/11DmNMIHUiVr8SLbLRQ66Ng)  密码:o7yl
-- 算法（第4版）      [百度云下载链接](https://pan.baidu.com/s/1GJ8rE9qQYcrW3ovYkK3bdA)  密码:vdg6 
+- 漫画算法：小灰的算法之旅     [百度云下载链接](https://pan.baidu.com/s/17jMzGKdMzcyP4GD3CtFtjQ )  密码:s9sb
+- 算法（第4版）      [百度云下载链接](https://pan.baidu.com/s/1LWYHUd-gybF1AMkS_exymA )  密码:1a4z 
 - 剑指offer      [百度云下载链接](https://pan.baidu.com/s/1BLSt2i_QrR_2jDmEeK2PPA)  密码:ttfn 
 - Java数据结构和算法      [百度云下载链接](https://pan.baidu.com/s/1LmGhE83W4yzI7ZXcEi-cTw)  密码:a5am
 - 数据结构与算法分析——Java语言描述      [百度云下载链接](https://pan.baidu.com/s/1MuW73vGlGnIbCQ1A-ZVhPw )  密码:iqi8
@@ -74,8 +74,6 @@
 - 大话数据结构     [百度云下载链接](https://pan.baidu.com/s/1rRs2iS-arfsYB-FMXXnGAg)  密码:lpdq
 - 数据结构与算法分析--C语言描述     [百度云下载链接](https://pan.baidu.com/s/1y429aNjcWRsSiPcbWZ2qXA )  密码:u0an
 - 啊哈算法     [百度云下载链接](https://pan.baidu.com/s/12_cpFx_8TP_ujKFRhXmbBA)  密码:swxv
-
-
 
 # 计算机基础
 ### 计算机网络
@@ -197,7 +195,7 @@
 # AI面试系列
 - 机器学习     [百度云下载链接](https://pan.baidu.com/s/1c_l3NDD_BCmKWY1LJqozVQ)  密码:19bk
 - 机器学习常见面试题     [百度云下载链接](https://pan.baidu.com/s/1n53vfCNDbe8kWSTZdW7rNA)  密码:8w3r
-- 百面_机器学习 算法工程师带你去面试。高清版带书签     [百度云下载链接](https://pan.baidu.com/s/1eu4Rupr8oeKBZ1rsQO3mqQ )  密码:l8wo
+- 百面_机器学习 算法工程师带你去面试。高清版带书签     [百度云下载链接](https://pan.baidu.com/s/16PAgoNenlm4P6KlfHEmjNA )  密码:nzqr
 
 
 # 大数据系列

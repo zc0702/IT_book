@@ -176,7 +176,7 @@
 
 
 ### 机器学习实战
-- 机器学习实战（附所有代码）     [百度云下载链接](https://pan.baidu.com/s/12X5DytiNakii3mbeHM78E)  密码:4wto
+- 机器学习实战（附所有代码）     [百度云下载链接](https://pan.baidu.com/s/1to5tvBtfq6gnRU2Bmi4SAg)  密码:6o5p
 - PYTHON机器学习及实践－**从零开始通往KAGGLE竞赛之路**     [百度云下载链接](https://pan.baidu.com/s/1qTGsUkhRCAbIeszRZzpnNg)  密码:z87v
 - 贝叶斯思维统计建模的Python学习法     [百度云下载链接](https://pan.baidu.com/s/1iok5j7-kABCtoid8YoEryA)  密码:6qby
 
@@ -195,9 +195,10 @@
 - PYTHON自然语言处理中文翻译 NLTK 中文版     [百度云下载链接](https://pan.baidu.com/s/1xJHF99KX011C-KluEaNq7w)  密码:112z
 
 # AI面试系列
-- 机器学习     [百度云下载链接](链接：https://pan.baidu.com/s/1to5tvBtfq6gnRU2Bmi4SAg )  密码:6o5p
+- 机器学习     [百度云下载链接](https://pan.baidu.com/s/1qDqmFjRiOOPQ6nQO8ABFbA )  密码:ikee
 - 机器学习常见面试题     [百度云下载链接](https://pan.baidu.com/s/1n53vfCNDbe8kWSTZdW7rNA)  密码:8w3r
 - 百面_机器学习 算法工程师带你去面试。高清版带书签     [百度云下载链接](https://pan.baidu.com/s/16PAgoNenlm4P6KlfHEmjNA )  密码:nzqr
+
 
 # 大数据系列
 ### Hadoop

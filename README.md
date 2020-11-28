@@ -156,7 +156,7 @@
 - TensorFlow 面向机器智能的TensorFlow实践 (智能系统与技术丛书)     [百度云下载链接](https://pan.baidu.com/s/1gSB9NQ9nS9cr7tSc357bBQ)  密码:t3z9
 - TensorFlow 斯坦福大学-深度学习基础教程     [百度云下载链接](https://pan.baidu.com/s/1LHLvixtDJz7yDotIHwPYcw)  密码:rmsj
 - TensorFlow 官方文档中文版     [百度云下载链接](https://pan.baidu.com/s/1wVbngJq3THdAYGtFXxnI5Q)  密码:ni0k
-- Tensorflow 实战Google深度学习框架（完整版pdf)     [百度云下载链接](https://pan.baidu.com/s/1dM0a7TOLesU_qK62WUE-XA)  密码:6qw9
+- Tensorflow 实战Google深度学习框架（完整版pdf)     [百度云下载链接](https://pan.baidu.com/s/1QkVL5VnGrBaNA4Py5iqsGA)  密码:oivb 
 
 
 ### 深度学习框架-pytorch

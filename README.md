@@ -31,6 +31,7 @@
   - [机器学习实战](#机器学习实战)
   - [理论-周志华（机器学习）李航（统计学原理）等](#理论-周志华（机器学习）李航（统计学原理）等)
   - [自然语言处理(NLP)](#自然语言处理(NLP))
+  - [机器学习规则]https://developers.google.cn/machine-learning/guides/rules-of-ml?hl=zh-cn
 - [AI面试系列](#AI面试系列)
 - [大数据系列](#大数据系列)
   - [Hadoop](#Hadoop)
